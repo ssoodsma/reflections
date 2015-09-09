@@ -8,4 +8,8 @@ How is the staging area different from the working directory and the repository?
 The staging area is a logical storage place that remembers all of the files that have been added prior to a commit.
 It allows multiple changes to be group together in the staging area making one logical commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only add changed files that are relevant to the logical change.
+
 
