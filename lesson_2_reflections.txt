@@ -1,0 +1,11 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+The git metadata and file structure are created. This is required to manage a file repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a logical storage place that remembers all of the files that have been added prior to a commit.
+It allows multiple changes to be group together in the staging area making one logical commit.
+
+
