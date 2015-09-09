@@ -12,4 +12,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Only add changed files that are relevant to the logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+If I want to try out a new feature, but not change the main code.  Branches maintain multiple copies of the source 
+so that multiple versions can exist simultaneously.
