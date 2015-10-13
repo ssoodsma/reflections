@@ -18,7 +18,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If you are going to be offline, it provides a local copy of the remote branch to view.
+		It allows conflicts to be resolved using git log and git diff.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
